@@ -9,13 +9,13 @@
 
 
 dl-2026-04-homework/
-├── scripts/ # 数据处理与可视化脚本
-├── figures/ # 可视化结果（增强/清洗对比等）
-├── runs/ # YOLO训练结果
-├── dataset_report.md # 数据集处理报告
-├── audit_report.md # 数据审计报告
-├── dataset.yaml # 数据配置文件
-└── README.md # 项目说明
+├── scripts/              # 数据处理与可视化脚本
+├── figures/              # 可视化结果（增强/清洗对比等）
+├── runs/                 # YOLO训练结果
+├── dataset_report.md     # 数据集处理报告
+├── audit_report.md       # 数据审计报告
+├── dataset.yaml          # 数据配置文件
+└── README.md             # 项目说明
 
 
 ---
